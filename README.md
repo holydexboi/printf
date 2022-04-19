@@ -2,7 +2,7 @@
 
 ## _printf()
 
-The printf project of Folawiyo Zulikif, students of Software Engineering at ALX. 
+The printf project of Folawiyo Zulikif and Hamid Balogun, students of Software Engineering at ALX. 
 
 This function named "_printf()" imitates the actual "printf()" command located in the stdio.h library of C programming Language. It contains some of the basic features and functions found in the manual 3 of "printf".
 
@@ -240,10 +240,10 @@ Function That Returns The Amount Of Indetifiers.
 
 
 ### Authors
-Folawiyo Zulikif
+Folawiyo Zulikif and Hamid Balogun
 
 ------------
 
 ### End
 
-Zulikif @ ALX software engineering programme 2022.
+Zulikif and Hamid @ ALX software engineering programme 2022.
